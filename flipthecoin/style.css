@@ -105,3 +105,8 @@ button {
         transform: rotateX(2160deg);
     }
 }
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
